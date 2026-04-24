@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777052856735,
+      "tag": "0000_young_tomorrow_man",
+      "breakpoints": true
+    }
+  ]
+}
